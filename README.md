@@ -4,8 +4,10 @@ A rabbit-monitoring system
 ## Steps
 1. Prepare a usb webcam and raspberry pi, mine is model 3 b.
 
-2. Install and config motion on your raspberry pi. Check this link
+2. Install and config motion on your raspberry pi. Check
 http://www.emindlab.com/raspberry-pi/raspberry-pi-remote-webcam-streaming.html
+and
+https://www.youtube.com/watch?v=H1jSudsIJfA
 
 3. Motion commands
 
